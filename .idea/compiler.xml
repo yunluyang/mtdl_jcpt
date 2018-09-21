@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mcep-admin" />
+        <module name="mcep-cms-admin" />
+        <module name="mcep-cms-common" />
+        <module name="mcep-cms-dao" />
+        <module name="mcep-cms-job" />
+        <module name="mcep-cms-rpc-api" />
+        <module name="mcep-cms-rpc-service" />
+        <module name="mcep-cms-search" />
+        <module name="mcep-cms-web" />
+        <module name="mcep-common" />
+        <module name="mcep-ted-admin" />
+        <module name="mcep-ted-common" />
+        <module name="mcep-ted-dao" />
+        <module name="mcep-ted-rpc-api" />
+        <module name="mcep-ted-rpc-service" />
+        <module name="mcep-upms-client" />
+        <module name="mcep-upms-common" />
+        <module name="mcep-upms-dao" />
+        <module name="mcep-upms-rpc-api" />
+        <module name="mcep-upms-rpc-service" />
+        <module name="mcep-upms-server" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="mcep" target="1.7" />
+      <module name="mcep-admin" target="1.7" />
+      <module name="mcep-cms" target="1.7" />
+      <module name="mcep-cms-admin" target="1.7" />
+      <module name="mcep-cms-common" target="1.7" />
+      <module name="mcep-cms-dao" target="1.7" />
+      <module name="mcep-cms-job" target="1.7" />
+      <module name="mcep-cms-rpc-api" target="1.7" />
+      <module name="mcep-cms-rpc-service" target="1.7" />
+      <module name="mcep-cms-search" target="1.7" />
+      <module name="mcep-cms-web" target="1.7" />
+      <module name="mcep-common" target="1.8" />
+      <module name="mcep-ted" target="1.7" />
+      <module name="mcep-ted-admin" target="1.7" />
+      <module name="mcep-ted-common" target="1.7" />
+      <module name="mcep-ted-dao" target="1.7" />
+      <module name="mcep-ted-rpc-api" target="1.7" />
+      <module name="mcep-ted-rpc-service" target="1.7" />
+      <module name="mcep-upms" target="1.7" />
+      <module name="mcep-upms-client" target="1.7" />
+      <module name="mcep-upms-common" target="1.7" />
+      <module name="mcep-upms-dao" target="1.7" />
+      <module name="mcep-upms-rpc-api" target="1.7" />
+      <module name="mcep-upms-rpc-service" target="1.7" />
+      <module name="mcep-upms-server" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

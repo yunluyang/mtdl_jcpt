@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mcep.iml" filepath="$PROJECT_DIR$/mcep.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mcep-admin/mcep-admin.iml" filepath="$PROJECT_DIR$/mcep-admin/mcep-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mcep-cms/mcep-cms.iml" filepath="$PROJECT_DIR$/mcep-cms/mcep-cms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mcep-cms/mcep-cms-admin/mcep-cms-admin.iml" filepath="$PROJECT_DIR$/mcep-cms/mcep-cms-admin/mcep-cms-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mcep-cms/mcep-cms-common/mcep-cms-common.iml" filepath="$PROJECT_DIR$/mcep-cms/mcep-cms-common/mcep-cms-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mcep-cms/mcep-cms-dao/mcep-cms-dao.iml" filepath="$PROJECT_DIR$/mcep-cms/mcep-cms-dao/mcep-cms-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mcep-cms/mcep-cms-job/mcep-cms-job.iml" filepath="$PROJECT_DIR$/mcep-cms/mcep-cms-job/mcep-cms-job.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mcep-cms/mcep-cms-rpc-api/mcep-cms-rpc-api.iml" filepath="$PROJECT_DIR$/mcep-cms/mcep-cms-rpc-api/mcep-cms-rpc-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mcep-cms/mcep-cms-rpc-service/mcep-cms-rpc-service.iml" filepath="$PROJECT_DIR$/mcep-cms/mcep-cms-rpc-service/mcep-cms-rpc-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mcep-cms/mcep-cms-search/mcep-cms-search.iml" filepath="$PROJECT_DIR$/mcep-cms/mcep-cms-search/mcep-cms-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mcep-cms/mcep-cms-web/mcep-cms-web.iml" filepath="$PROJECT_DIR$/mcep-cms/mcep-cms-web/mcep-cms-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mcep-common/mcep-common.iml" filepath="$PROJECT_DIR$/mcep-common/mcep-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mcep-ted/mcep-ted.iml" filepath="$PROJECT_DIR$/mcep-ted/mcep-ted.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mcep-ted/mcep-ted-admin/mcep-ted-admin.iml" filepath="$PROJECT_DIR$/mcep-ted/mcep-ted-admin/mcep-ted-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mcep-ted/mcep-ted-common/mcep-ted-common.iml" filepath="$PROJECT_DIR$/mcep-ted/mcep-ted-common/mcep-ted-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mcep-ted/mcep-ted-dao/mcep-ted-dao.iml" filepath="$PROJECT_DIR$/mcep-ted/mcep-ted-dao/mcep-ted-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mcep-ted/mcep-ted-rpc-api/mcep-ted-rpc-api.iml" filepath="$PROJECT_DIR$/mcep-ted/mcep-ted-rpc-api/mcep-ted-rpc-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mcep-ted/mcep-ted-rpc-service/mcep-ted-rpc-service.iml" filepath="$PROJECT_DIR$/mcep-ted/mcep-ted-rpc-service/mcep-ted-rpc-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mcep-upms/mcep-upms.iml" filepath="$PROJECT_DIR$/mcep-upms/mcep-upms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mcep-upms/mcep-upms-client/mcep-upms-client.iml" filepath="$PROJECT_DIR$/mcep-upms/mcep-upms-client/mcep-upms-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mcep-upms/mcep-upms-common/mcep-upms-common.iml" filepath="$PROJECT_DIR$/mcep-upms/mcep-upms-common/mcep-upms-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mcep-upms/mcep-upms-dao/mcep-upms-dao.iml" filepath="$PROJECT_DIR$/mcep-upms/mcep-upms-dao/mcep-upms-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mcep-upms/mcep-upms-rpc-api/mcep-upms-rpc-api.iml" filepath="$PROJECT_DIR$/mcep-upms/mcep-upms-rpc-api/mcep-upms-rpc-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mcep-upms/mcep-upms-rpc-service/mcep-upms-rpc-service.iml" filepath="$PROJECT_DIR$/mcep-upms/mcep-upms-rpc-service/mcep-upms-rpc-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mcep-upms/mcep-upms-server/mcep-upms-server.iml" filepath="$PROJECT_DIR$/mcep-upms/mcep-upms-server/mcep-upms-server.iml" />
+    </modules>
+  </component>
+</project>

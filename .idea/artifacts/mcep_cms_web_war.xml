@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="mcep-cms-web:war">
+    <output-path>$PROJECT_DIR$/mcep-cms/mcep-cms-web/target</output-path>
+    <root id="archive" name="mcep-cms-web.war">
+      <element id="artifact" artifact-name="mcep-cms-web:war exploded" />
+    </root>
+  </artifact>
+</component>

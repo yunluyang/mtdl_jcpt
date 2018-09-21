@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mcep-admin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mcep-cms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mcep-cms/mcep-cms-admin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mcep-cms/mcep-cms-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mcep-cms/mcep-cms-dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mcep-cms/mcep-cms-job" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mcep-cms/mcep-cms-rpc-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mcep-cms/mcep-cms-rpc-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mcep-cms/mcep-cms-search" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mcep-cms/mcep-cms-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mcep-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mcep-ted" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mcep-ted/mcep-ted-admin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mcep-ted/mcep-ted-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mcep-ted/mcep-ted-dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mcep-ted/mcep-ted-rpc-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mcep-ted/mcep-ted-rpc-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mcep-upms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mcep-upms/mcep-upms-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mcep-upms/mcep-upms-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mcep-upms/mcep-upms-dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mcep-upms/mcep-upms-rpc-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mcep-upms/mcep-upms-rpc-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mcep-upms/mcep-upms-server" charset="UTF-8" />
+  </component>
+</project>

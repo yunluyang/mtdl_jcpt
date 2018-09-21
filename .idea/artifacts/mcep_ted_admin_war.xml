@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="mcep-ted-admin:war">
+    <output-path>$PROJECT_DIR$/mcep-ted/mcep-ted-admin/target</output-path>
+    <root id="archive" name="mcep-ted-admin.war">
+      <element id="artifact" artifact-name="mcep-ted-admin:war exploded" />
+    </root>
+  </artifact>
+</component>
