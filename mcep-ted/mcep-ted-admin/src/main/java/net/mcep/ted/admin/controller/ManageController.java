@@ -19,7 +19,6 @@ import org.springframework.web.bind.annotation.RequestMethod;
 public class ManageController extends BaseController {
 
 	private static final Logger LOGGER = LoggerFactory.getLogger(ManageController.class);
-
 	/**
 	 * 后台首页
 	 * @return
